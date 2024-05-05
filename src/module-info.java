@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author karin
+ *
+ */
+module ChessSystem {
+}
